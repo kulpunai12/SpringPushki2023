@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="623d12c9-e456-477d-a708-20c1ed83f4f8" name="Changes" comment="" />
+    <list default="true" id="623d12c9-e456-477d-a708-20c1ed83f4f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/git/Elcard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/git/Swift.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/git/qiwi.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +18,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
+        <option value="Interface" />
+=======
+>>>>>>> master
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2RVU7C3k6rQgi8rOFf1ZVeK1t8f" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -54,4 +66,11 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+=======
+>>>>>>> master
 </project>
