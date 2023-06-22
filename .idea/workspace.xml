@@ -18,7 +18,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
         <option value="Interface" />
+=======
+>>>>>>> master
         <option value="Class" />
       </list>
     </option>
@@ -63,8 +66,11 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
   </component>
+=======
+>>>>>>> master
 </project>
